@@ -1,0 +1,1 @@
+Projeto simples de uma landing page utilizando apenas HTML e CSS 
